@@ -1,0 +1,7 @@
+pipe_cancel_weather.pkl / pipe_arr_weather.pkl / pipe_dep_weather.pkl
+
+['WEEK', 'MKT_AIRLINE', 'ORIGIN_IATA', 'DEST_IATA', 'SCH_DEP_TIME', 'SCH_ARR_TIME', 'SCH_DURATION', 'DISTANCE', 'ORIGIN_TYPE', 'ORIGIN_ELEV', 'DEST_TYPE', 'DEST_ELEV', 'origin_temperature_avg_C', 'origin_temperature_min_C', 'origin_temperature_max_C', 'origin_precipitation_mm', 'origin_wind_speed_kph', 'origin_snow_mm', 'dest_temperature_avg_C', 'dest_temperature_min_C', 'dest_temperature_max_C', 'dest_precipitation_mm', 'dest_wind_speed_kph', 'dest_snow_mm', 'IS_WEEKEND', 'IS_HOLIDAY', 'DEP_HOUR', 'ARR_HOUR']
+
+pipe_cancel_no_weather.pkl / pipe_arr_no_weather.pkl / pipe_dep_no_weather.pkl
+
+['WEEK', 'MKT_AIRLINE', 'ORIGIN_IATA', 'DEST_IATA', 'SCH_DEP_TIME', 'SCH_ARR_TIME', 'SCH_DURATION', 'DISTANCE', 'ORIGIN_TYPE', 'ORIGIN_ELEV', 'DEST_TYPE', 'DEST_ELEV', 'IS_WEEKEND', 'IS_HOLIDAY', 'DEP_HOUR', 'ARR_HOUR']
